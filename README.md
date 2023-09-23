@@ -1,2 +1,2 @@
 # cuda
-https://ashikur170.github.io/cuda/
+https://webweaverashik.github.io/cuda/
